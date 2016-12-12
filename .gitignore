@@ -1,0 +1,5 @@
+test_images/copy_*.jpg
+*.mp4
+laneLines_thirdPass.jpg
+line-segments-example.jpg
+*.zip
