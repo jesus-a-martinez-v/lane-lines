@@ -10,7 +10,7 @@ If you want to run this project, you will need Python 3 along with the numpy, ma
 
 **Step 2:** Installing moviepy  
 
-In this project we use "moviepy" package for processing video in this project. To install moviepy run:
+In this project we use "moviepy" package for processing video. To install moviepy run:
 
 `>pip install moviepy`  
 
@@ -18,8 +18,6 @@ and check that the install worked:
 
 `>python`  
 `>>>import moviepy`  
-`>>>`  
-(Ctrl-d to exit Python)
 
 **Step 3:** Opening the code in a Jupyter Notebook
 
