@@ -1,4 +1,5 @@
-#**Finding Lane Lines on the Road** 
+# Finding Lane Lines on the Road
+
 <img src="laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
 When we drive we use visual cues to know where to steer the car, if we should increase or decrease our speed or stop altogether. One of the most powerful aids we have when we drive are the line lines. So, the focus of this project is to develop a very simple model to detect lane lines, both in static images as well as in videos.
