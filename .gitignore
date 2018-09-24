@@ -3,3 +3,4 @@ test_images/copy_*.jpg
 laneLines_thirdPass.jpg
 line-segments-example.jpg
 *.zip
+.ipynb_checkpoints
