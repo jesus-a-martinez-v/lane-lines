@@ -12,6 +12,8 @@ First, create a `conda` environment for this project with this command:
 conda create -n lane-lines python=3.6
 ```
 
+(Don't forget to activate it: `source activate lane-lines`)
+
 Then, install the needed packages:
 
 ```
