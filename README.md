@@ -4,26 +4,22 @@
 
 When we drive we use visual cues to know where to steer the car, if we should increase or decrease our speed or stop altogether. One of the most powerful aids we have when we drive are the line lines. So, the focus of this project is to develop a very simple model to detect lane lines, both in static images as well as in videos.
 
-**Step 1:** Getting setup with Python
+## Setup
 
-If you want to run this project, you will need Python 3 along with the numpy, matplotlib, and OpenCV libraries, as well as Jupyter Notebook installed. 
+First, create a `conda` environment for this project with this command:
+
+```
+conda create -n lane-lines python=3.6
+```
+
+Then, install the needed packages:
+
+```
+pip install -r requirements.txt
+```
 
 
-**Step 2:** Installing moviepy  
 
-In this project we use "moviepy" package for processing video. To install moviepy run:
+## Opening the code in a Jupyter Notebook
 
-`>pip install moviepy`  
-
-and check that the install worked:
-
-`>python`  
-`>>>import moviepy`  
-
-**Step 3:** Opening the code in a Jupyter Notebook
-
-You can explore the code that's in the Jupyter Notebook. You're more than welcome to play around with the values an see how this affect the pipeline. In order to run the Notebook, `cd` into the root of this project and run: 
-
-`> jupyter notebook`
-
-A browser window will appear showing the contents of the current directory.  Click on the file called "P1.ipynb".  Another browser window will appear displaying the notebook.
+Just run `jupyter notebook` and start playing around :)
